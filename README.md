@@ -1,7 +1,20 @@
-Hello World! 👋 I'm Saurabh Wake
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe;Full+Stack+Developer+%7C+Problem+Solver;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=saurabhwake&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/saurabhwake?label=Followers&style=flat-square&color=10b981" alt="Followers" /> <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=flat-square" alt="Focus" /> </div>
+# Hello World! 👋 I'm Saurabh Wake
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe;Full+Stack+Developer+%7C+Problem+Solver;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhwake&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/saurabhwake?label=Followers&style=flat-square&color=10b981" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=flat-square" alt="Focus" />
+</div>
+
 ---
 
+## 🌟 About Me
+
+typescript
 interface Developer {
   name: string;
   location: string;
@@ -22,6 +35,8 @@ const saurabhwake: Developer = {
   motto: "Code with purpose, build with passion! 🚀"
 };
 
+
+<div align="center">
 
 ### 💫 Quick Facts About Me
 
