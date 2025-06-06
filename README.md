@@ -1,8 +1,11 @@
 # Hello World! 👋 I'm Saurabh Wake
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe;Full+Stack+Developer+%7C+Problem+Solver;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Welcome+to+my+Digital+Universe;Full+Stack+Developer+%7C+Problem+Solver;Building+Tomorrow's+Solutions+Today" 
+    alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saurabhwake&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views" />
@@ -12,29 +15,26 @@
 
 ---
 
-## 🌟 About Me
-
 interface Developer {
-name: string;
-location: string;
-role: string;
-languages: string[];
-currentFocus: string[];
-hobbies: string[];
-motto: string;
+  name: string;
+  location: string;
+  role: string;
+  languages: string[];
+  currentFocus: string[];
+  hobbies: string[];
+  motto: string;
 }
 
 const saurabhwake: Developer = {
-name: "Saurabh Wake",
-location: "India 🇮🇳",
-role: "Full Stack Developer & Tech Enthusiast",
-languages: ["JavaScript", "Python", "TypeScript", "Java"],
-currentFocus: ["React", "Node.js", "Cloud Architecture", "AI/ML"],
-hobbies: ["Coding", "Photography", "Travel", "Chess"],
-motto: "Code with purpose, build with passion! 🚀"
+  name: "Saurabh Wake",
+  location: "India 🇮🇳",
+  role: "Full Stack Developer & Tech Enthusiast",
+  languages: ["JavaScript", "Python", "TypeScript", "Java"],
+  currentFocus: ["React", "Node.js", "Cloud Architecture", "AI/ML"],
+  hobbies: ["Coding", "Photography", "Travel", "Chess"],
+  motto: "Code with purpose, build with passion! 🚀"
 };
 
-<div align="center">
 
 ### 💫 Quick Facts About Me
 
