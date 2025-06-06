@@ -14,27 +14,25 @@
 
 ## 🌟 About Me
 
-typescript
 interface Developer {
-  name: string;
-  location: string;
-  role: string;
-  languages: string[];
-  currentFocus: string[];
-  hobbies: string[];
-  motto: string;
+name: string;
+location: string;
+role: string;
+languages: string[];
+currentFocus: string[];
+hobbies: string[];
+motto: string;
 }
 
 const saurabhwake: Developer = {
-  name: "Saurabh Wake",
-  location: "India 🇮🇳",
-  role: "Full Stack Developer & Tech Enthusiast",
-  languages: ["JavaScript", "Python", "TypeScript", "Java"],
-  currentFocus: ["React", "Node.js", "Cloud Architecture", "AI/ML"],
-  hobbies: ["Coding", "Photography", "Travel", "Chess"],
-  motto: "Code with purpose, build with passion! 🚀"
+name: "Saurabh Wake",
+location: "India 🇮🇳",
+role: "Full Stack Developer & Tech Enthusiast",
+languages: ["JavaScript", "Python", "TypeScript", "Java"],
+currentFocus: ["React", "Node.js", "Cloud Architecture", "AI/ML"],
+hobbies: ["Coding", "Photography", "Travel", "Chess"],
+motto: "Code with purpose, build with passion! 🚀"
 };
-
 
 <div align="center">
 
@@ -112,8 +110,6 @@ const saurabhwake: Developer = {
 
 <div align="center">
 
-### 🌟 Project Highlights
-
 <table>
   <tr>
     <td width="50%">
@@ -181,24 +177,23 @@ const saurabhwake: Developer = {
 
 <div align="center">
 
-mermaid
 graph LR
-    A[🎯 Current Focus] --> B[Cloud Architecture]
-    A --> C[DevOps & CI/CD]
-    A --> D[Machine Learning]
-    A --> E[System Design]
-    
-    B --> F[AWS Solutions]
-    B --> G[Microservices]
-    
-    C --> H[Docker & K8s]
-    C --> I[GitHub Actions]
-    
-    D --> J[TensorFlow]
-    D --> K[Neural Networks]
-    
-    E --> L[Scalability]
-    E --> M[Performance]
+A[🎯 Current Focus] --> B[Cloud Architecture]
+A --> C[DevOps & CI/CD]
+A --> D[Machine Learning]
+A --> E[System Design]
+
+B --> F[AWS Solutions]
+B --> G[Microservices]
+
+C --> H[Docker & K8s]
+C --> I[GitHub Actions]
+
+D --> J[TensorFlow]
+D --> K[Neural Networks]
+
+E --> L[Scalability]
+E --> M[Performance]
 
 
 </div>
