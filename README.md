@@ -42,7 +42,7 @@ const saurabhwake: Developer = {
 |:---|:---|
 | 🌱 Learning | Cloud Native Development & DevOps |
 | 💬 Ask me about | JavaScript, React, Python, or anything tech! |
-| 📫 Reach me at | saurabhwake@gmail.com |
+| 📫 Reach me at | saurabhwake80@gmail.com |
 | ⚡ Fun fact | I can solve a Rubik's cube in under 2 minutes! |
 
 </div>
